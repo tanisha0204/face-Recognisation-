@@ -1,5 +1,5 @@
-0 Class Ashish
-1 Class vicky
-2 Class Alok
-3 Class Sidharth
-4 Class Yash
+0 Yash
+1 Alok
+2 Pushkar
+3 Ashish
+4 Tanisha
